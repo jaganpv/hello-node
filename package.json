@@ -1,6 +1,6 @@
 {
   "name": "hello-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "hellonode",
   "main": "app.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jaganpv/hello-node/issues"
   },
-  "homepage": "https://github.com/jaganpv/hello-node#readme"
+  "homepage": "https://github.com/jaganpv/hello-node#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
